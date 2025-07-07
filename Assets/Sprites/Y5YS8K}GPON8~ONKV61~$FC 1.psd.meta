@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: 997d1f1edf0756946a2600284a6b1893
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 327
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca443bf4ad677bf4fae0063dd8f2fde7
+      internalID: -1889329280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 327
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc0327bae60f40438430345255f4401
+      internalID: 1563200586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 327
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32974fd6296684347afc9493300a166a
+      internalID: 2112199037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 327
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7ceda3ef79b2740819a1335bd49785
+      internalID: 1185025180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 327
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e056813997d020a4787face67992008d
+      internalID: 1693171235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 327
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cd02a671144e942a6376b169f70de9
+      internalID: 890414544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 327
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd98b3b49f7d10d469712b987a8150e7
+      internalID: -1260884861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 286
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6e0a15873e0c744a0723a4b34dd84a
+      internalID: 707440712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 286
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16eed53f2c66c546864237437c540b3
+      internalID: -997654498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 286
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e903af0e0ba05d469abdda0da8a233a
+      internalID: 1876967132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 286
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d2ab21aefebde4aa1cb4cc5cfa4dfb
+      internalID: 1212855694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 286
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72caab3dd4a3c654d83fbcb0c1af4c78
+      internalID: -1647153397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 286
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3817e69a5869b41b7137b8e6fb7dd3
+      internalID: -1906773453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 245
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a243d946750eb4f9ba2a20c02b4120
+      internalID: -1979202592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 245
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a952b650b409646a3246b38edcf1ab
+      internalID: -585959657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 245
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44b335e83d971f48963b2349c5ab3e2
+      internalID: 640449621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 245
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ea703c92ca8d543859deb5577c1504
+      internalID: -804950531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 245
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54572b462a176224e9761cf981e19968
+      internalID: 1639275037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 204
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2610477fa9f85734595fa2ac13b44f9f
+      internalID: 1552037952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 204
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4b92c92dd8b664493fcf62b18d5984
+      internalID: 721328984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 204
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3994cda1d62b7941aa0945f7600e822
+      internalID: 702227807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 204
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d0d00fadee8e745be02e9d2043a167
+      internalID: 1669117572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 204
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de209fef43787c4478b9d89834339e42
+      internalID: -352844219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12cc74bcafd70845a37ae5d01db3f68
+      internalID: -2819663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376f39f99d2268d45a074260dc3738e2
+      internalID: -1627041222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0314110b60f731c4294a4d279c7ae616
+      internalID: -1518297419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 122
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3099e68a47889124a830c185ebd8b578
+      internalID: -1002512985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_27
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 286
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3e9c4f778765d45b266d3688c59719
+      internalID: 322797579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_28
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 163
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e29a7e227a8c734d8e9e7db437aac28
+      internalID: 117428984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694655bc6c0c3be4c8312c1681318fb4
+      internalID: 1239729788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_30
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 30
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd552f1ec302eb04889bdf2216eafae9
+      internalID: 549979598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 122
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097ebbac50446a14fb5661fcfd786912
+      internalID: 1194221897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y5YS8K}GPON8~ONKV61~$FC 1_32
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 138
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888ce13054ab00b4b9b7e8c9d005fbad
+      internalID: 419676327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Y5YS8K}GPON8~ONKV61~$FC 1_28: 117428984
+      Y5YS8K}GPON8~ONKV61~$FC 1_31: 1194221897
+      Y5YS8K}GPON8~ONKV61~$FC 1_13: -1979202592
+      Y5YS8K}GPON8~ONKV61~$FC 1_6: -1260884861
+      Y5YS8K}GPON8~ONKV61~$FC 1_20: 702227807
+      Y5YS8K}GPON8~ONKV61~$FC 1_30: 549979598
+      Y5YS8K}GPON8~ONKV61~$FC 1_32: 419676327
+      Y5YS8K}GPON8~ONKV61~$FC 1_7: 707440712
+      Y5YS8K}GPON8~ONKV61~$FC 1_1: 1563200586
+      Y5YS8K}GPON8~ONKV61~$FC 1_8: -997654498
+      Y5YS8K}GPON8~ONKV61~$FC 1_10: 1212855694
+      Y5YS8K}GPON8~ONKV61~$FC 1_15: 640449621
+      Y5YS8K}GPON8~ONKV61~$FC 1_11: -1647153397
+      Y5YS8K}GPON8~ONKV61~$FC 1_12: -1906773453
+      Y5YS8K}GPON8~ONKV61~$FC 1_14: -585959657
+      Y5YS8K}GPON8~ONKV61~$FC 1_26: -1002512985
+      Y5YS8K}GPON8~ONKV61~$FC 1_18: 1552037952
+      Y5YS8K}GPON8~ONKV61~$FC 1_5: 890414544
+      Y5YS8K}GPON8~ONKV61~$FC 1_17: 1639275037
+      Y5YS8K}GPON8~ONKV61~$FC 1_19: 721328984
+      Y5YS8K}GPON8~ONKV61~$FC 1_2: 2112199037
+      Y5YS8K}GPON8~ONKV61~$FC 1_24: -1627041222
+      Y5YS8K}GPON8~ONKV61~$FC 1_22: -352844219
+      Y5YS8K}GPON8~ONKV61~$FC 1_4: 1693171235
+      Y5YS8K}GPON8~ONKV61~$FC 1_9: 1876967132
+      Y5YS8K}GPON8~ONKV61~$FC 1_29: 1239729788
+      Y5YS8K}GPON8~ONKV61~$FC 1_0: -1889329280
+      Y5YS8K}GPON8~ONKV61~$FC 1_25: -1518297419
+      Y5YS8K}GPON8~ONKV61~$FC 1_3: 1185025180
+      Y5YS8K}GPON8~ONKV61~$FC 1_21: 1669117572
+      Y5YS8K}GPON8~ONKV61~$FC 1_23: -2819663
+      Y5YS8K}GPON8~ONKV61~$FC 1_27: 322797579
+      Y5YS8K}GPON8~ONKV61~$FC 1_16: -804950531
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
